@@ -24,7 +24,7 @@ A deep learning-based web app built with **TensorFlow** and **Streamlit** to cla
 ## 🛠 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/tejarouthu007/plant-disease-detection.git
 cd plant-disease-detection
 ```
 
