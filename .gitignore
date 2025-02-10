@@ -1,3 +1,2 @@
 .venv/
 *.keras
-trained_model/
