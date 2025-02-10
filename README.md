@@ -1,6 +1,8 @@
 # 🌱 Plant Disease Detection App
 
 A deep learning-based web app built with **TensorFlow** and **Streamlit** to classify plant diseases from images.
+## 🌍 Live Demo
+[🔗 View the App](https://plant-disease-detection-007.streamlit.app/)
 
 ## 🚀 Features
 - Upload an image of a plant leaf.
