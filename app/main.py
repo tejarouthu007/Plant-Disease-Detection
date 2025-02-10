@@ -7,7 +7,7 @@ import streamlit as st
 import gdown
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
-model_path = f"{working_dir}/trained_model/plant_disease_prediction_model.keras"
+model_path = f"{working_dir}/model/plant_disease_prediction_model.keras"
 
 drive_file_id = "1--JDi46vVyMu3KLwnFCcdh78bX8e-YoI"
 
