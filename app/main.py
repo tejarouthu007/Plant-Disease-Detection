@@ -9,7 +9,7 @@ import gdown
 working_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = f"{working_dir}/model/plant_disease_prediction_model.keras"
 
-drive_file_id = "1--JDi46vVyMu3KLwnFCcdh78bX8e-YoI"
+drive_file_id = "1mtuzs9rdLIr-H5Bt_Ow5jbppFK9gPmCF"
 
 if not os.path.exists(model_path):
     os.makedirs(os.path.dirname(model_path), exist_ok=True)
